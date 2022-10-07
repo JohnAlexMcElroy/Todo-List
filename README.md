@@ -1,3 +1,3 @@
 # Todo-List
-## I made it with vanilla JavaScript.
+# I made it with vanilla JavaScript.
 #
